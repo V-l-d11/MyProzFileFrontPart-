@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color:#EA6969;
+    height: 4rem;
+    align-items: center;
+    position: relative;
+
+}
+.item{
+    color:black;
+    margin-left: 6rem;
+    text-decoration: none;
+}
+.btn{
+    background-color:#000 ;
+    border: none;
+    color:#fff;
+}
+.item:active{
+    color: rgb(255, 255, 255);
+    margin-left: 6rem;
+    text-decoration: none;
+}

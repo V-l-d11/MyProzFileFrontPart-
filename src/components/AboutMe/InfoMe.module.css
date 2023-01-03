@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+.hcontainer{
+    margin-top:100px;
+}
+.pr{
+    color: #fff;
+}
+.hr{
+    color:#EA6969;
+    background-color: #EA6969;
+    border:none;
+    height: 1px;
+}
